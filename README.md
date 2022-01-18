@@ -1,7 +1,7 @@
 ![ic_launcher](https://user-images.githubusercontent.com/20641545/150014045-dd981728-2dcc-443b-b888-5d662a816a28.png)
 # LandBlaster 
 ### Ferma il bulldozer!
-### Anno accademico: 2021/2022
+### Anno accademico: 2022/2023
 ### Gruppo: Solo
 <br />
 LandBlaster è un gioco Android in cui bisogna impedire ad un bulldozer di inquinare lanciandogli delle pietre.  <br /> <br />
