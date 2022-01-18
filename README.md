@@ -17,5 +17,4 @@ Fermalo con la special move a tua disposizione (Attivabbile ogni nuovi 10 punti)
 Il gioco non utilizza game engine.
 Per la simulazione fisica è stata utilizzata la libreria JLiquidFun ( https://github.com/mfaella/JLiquidFun ) binding Java dell'ononima Libreria in C++.<br />
 
-Durata a partita: 1-4 minuti
 ### Anno accademico: 2021/2022
