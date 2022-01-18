@@ -15,6 +15,6 @@ Si tratta di un endless run 2D a visuale laterale in cui, dall'alto dello scherm
 </p>
 <br />
 Il bulldozer cercherà di muoversi dove ci sono più pietre, e se non ne incontrerà nessuna per troppo tempo, aumenterà di velocità! <br />
-Fermalo con la special move a tua disposizione (Attivabbile ogni nuovi 10 punti) che raddoppia la dimensione e peso di tutte le pietre presenti a schermo! <br /> <br />
+Fermalo con la special move a tua disposizione (Attivabile ogni nuovi 10 punti) che raddoppia la dimensione e peso di tutte le pietre presenti a schermo! <br /> <br />
 Il gioco non utilizza game engine.
 Per la simulazione fisica è stata utilizzata la libreria JLiquidFun ( https://github.com/mfaella/JLiquidFun ) binding Java dell'ononima Libreria in C++.<br />
