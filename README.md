@@ -18,3 +18,4 @@ Il gioco non utilizza game engine.
 Per la simulazione fisica è stata utilizzata la libreria JLiquidFun ( https://github.com/mfaella/JLiquidFun ) binding Java dell'ononima Libreria in C++.<br />
 
 ### Anno accademico: 2021/2022
+### Gruppo:Solo
