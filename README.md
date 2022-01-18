@@ -1,5 +1,5 @@
 ![ic_launcher](https://user-images.githubusercontent.com/20641545/150014045-dd981728-2dcc-443b-b888-5d662a816a28.png)
-# LandBlaster
+# LandBlaster <br />
 > Ferma il bulldozer! <br />
 > Anno accademico: 2021/2022
 
@@ -13,6 +13,5 @@ Si tratta di un endless run 2D a visuale laterale in cui, dall'alto dello scherm
 </p>
 Il bulldozer cercherà di muoversi dove ci sono più pietre, e se non ne incontrerà nessuna per troppo tempo, aumenterà di velocità! 
 Fermalo con la special move a tua disposizione (Attivabbile ogni nuovi 10 punti) che raddoppia la dimensione e peso di tutte le pietre presenti a schermo! <br />
-
 Il gioco non utilizza game engine.
 Per la simulazione fisica è stata utilizzata la libreria [JLiquidFun](https://github.com/mfaella/JLiquidFun), binding Java dell'ononima Libreria in C++.<br />
