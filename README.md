@@ -1,8 +1,7 @@
 ![ic_launcher](https://user-images.githubusercontent.com/20641545/150014045-dd981728-2dcc-443b-b888-5d662a816a28.png)
-# LandBlaster <br /> <br />
-> Ferma il bulldozer! <br />
-> Anno accademico: 2021/2022
-
+# LandBlaster 
+### Ferma il bulldozer! 
+<br />
 LandBlaster è un gioco Android in cui bisogna impedire ad un bulldozer di inquinare lanciandogli delle pietre.  <br /> <br />
 <p align="center">
   <img src="https://user-images.githubusercontent.com/20641545/150017755-fbb775cb-4411-434d-8445-366519cbb60b.png" alt="LandBlaster"/>
@@ -16,4 +15,6 @@ Si tratta di un endless run 2D a visuale laterale in cui, dall'alto dello scherm
 Il bulldozer cercherà di muoversi dove ci sono più pietre, e se non ne incontrerà nessuna per troppo tempo, aumenterà di velocità! 
 Fermalo con la special move a tua disposizione (Attivabbile ogni nuovi 10 punti) che raddoppia la dimensione e peso di tutte le pietre presenti a schermo! <br /> <br />
 Il gioco non utilizza game engine.
-Per la simulazione fisica è stata utilizzata la libreria [JLiquidFun](https://github.com/mfaella/JLiquidFun)  binding Java dell'ononima Libreria in C++.<br />
+Per la simulazione fisica è stata utilizzata la libreria JLiquidFun ( https://github.com/mfaella/JLiquidFun ) binding Java dell'ononima Libreria in C++.<br />
+
+### Anno accademico: 2021/2022
